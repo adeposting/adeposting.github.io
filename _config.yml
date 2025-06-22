@@ -1,0 +1,16 @@
+title: "ade's site"
+email: "217110652+adeposting@users.noreply.github.com"
+author: ade
+description: "i'm ade. i do things. make stuff. here's some. have fun."
+baseurl: ""
+url: "https://adeposting.com/"
+
+theme: jekyll-theme-ade
+
+featured_image: "/assets/images/featured_image.jpg"
+
+github:
+  username: adeposting
+
+twitter:
+  username: adeposting
