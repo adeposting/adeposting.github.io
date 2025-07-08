@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: ade's home.
+title: ade's site
 description: i'm ade. i do things. make stuff. here's some. have fun.
 featured_image: /assets/images/featured_image.jpg
 no_article_header: true
